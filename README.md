@@ -1,2 +1,2 @@
 # learn-js
-JavaScript Learning : Scribblings/Notes/Code samples 
+Learning JavaScript : Scribblings/Notes/Code samples 
